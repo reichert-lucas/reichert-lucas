@@ -1,10 +1,11 @@
-### Hi 👋, my name is Lucas
+### Hi 👋, my name is <a href="https://github.com/lucas3d4783">Lucas Reichert</a>
 - 🔭 I'm currently working as a full stack web developer
 
 <div>
-  <a href="https://github.com/lucas3d4783"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas3d4783&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas3d4783&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/lucas3d4783">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas3d4783&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas3d4783&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br/>
