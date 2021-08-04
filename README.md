@@ -1,4 +1,4 @@
-### Hi 👋, my name is <a href="https://github.com/lucas3d4783">Lucas Reichert</a>
+### Hi 👋, my name is <a href="https://github.com/lucas3d4783">Lucas</a>
 - 🔭 I'm currently working as a full stack web developer
 
 <div>
